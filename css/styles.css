@@ -14,7 +14,7 @@
   transition: var(--tr);
 }
 
-body {
+.sasasjkl {
   margin: 0;
   padding: 0;
   width: 100vw;
@@ -27,7 +27,7 @@ body {
   font-family: 'Roboto', Arial, Helvetica, serif;
 }
 
-body:before, body:after {
+.sasasjkl:before, body:after {
   content: "";
   position: absolute;
   width: 100%;
