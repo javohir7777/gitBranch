@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}
+nav {
+  background-color: aquamarine;
+  display: flex;
+}
+button {
+  display: flex;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding: 10px 15px;
+  background-color: blue;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+button:hover {
+  position: relative;
+  top: 6px;
+  background-color: brown;
+  color: gold;
+  box-shadow: 1px 10px 30px 10px;
+  /* display: flex;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding: 10px 15px;
+  background-color: blue;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px; */
+}
+div {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.p1 {
+  color: rgb(91, 249, 18);
+}
